@@ -32,3 +32,21 @@ Please help to add Tests for any kind of Situation and write some good documenta
 - test widget existence
 - test button clicks
 
+
+
+
+
+# LINKS
+## Tutorials
+- [FLUTTER COOKBOOK](https://flutter.dev/docs/cookbook/testing)
+
+## Packages
+- [PACKAGE: TEST](https://pub.dev/packages/test)
+- [PACKAGE: MOCKITO](https://pub.dev/packages/mockito)
+
+- []
+
+## Test Driven Development (TDD)
+- [Resocoder - The Thought Process Behind TDD](https://www.youtube.com/watch?v=3xj1LStT4HY)
+- [Resocoder - Test Driven Development](https://www.youtube.com/watch?v=KjE2IDphA_U&list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech)
+- [Resocoder - Bloc Test](https://www.youtube.com/watch?v=S6jFBiiP0Mc&t=983s)
